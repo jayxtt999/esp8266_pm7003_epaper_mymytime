@@ -32,3 +32,5 @@ pm7003 d1mini epaper
 //      DATA: 2
 
 ```
+
+![image](https://github.com/jayxtt999/esp8266_pm7003_epaper_mymytime/blob/master/file/img.jpg)
