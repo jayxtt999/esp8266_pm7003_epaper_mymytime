@@ -33,4 +33,4 @@ pm7003 d1mini epaper
 
 ```
 
-![image](https://github.com/jayxtt999/esp8266_pm7003_epaper_mymytime/blob/master/file/img.jpg)
+![image](https://github.com/jayxtt999/esp8266_pm7003_epaper_mymytime/blob/main/file/img.jpg)
