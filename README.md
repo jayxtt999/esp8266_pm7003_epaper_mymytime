@@ -10,13 +10,13 @@ pm7003 d1mini epaper
 ## 与墨水屏连接
 ### esp8266mcu
 ```
-//esp8266mcu
-//CS    D8
-//DC    D3
-//RST   D4
-//BUSY  D2
-//SCK   D5
-//SD1   D7
+adapter esp8266mcu
+CS      D8
+DC      D3
+RST     D4
+BUSY    D2
+SCK     D5
+SD1     D7
 ```
 
 ### d1mini
@@ -26,11 +26,14 @@ pm7003 d1mini epaper
 ```
 ## 与DHT22温度传感器
 ```
-// for DHT22,
-//      VCC: 5V or 3V
-//      GND: GND
-//      DATA: 2
+      for DHT22
+      VCC: 5V or 3V
+      GND: GND
+      DATA: 2
 
 ```
 
 ![image](https://github.com/jayxtt999/esp8266_pm7003_epaper_mymytime/blob/main/file/img.jpg)
+
+
+## 理论上与用微雪也行，只是大连佳显的便宜一些，且转接板与屏是分开的。
