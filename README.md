@@ -35,5 +35,6 @@ SD1     D7
 
 ![image](https://github.com/jayxtt999/esp8266_pm7003_epaper_mymytime/blob/main/file/img.jpg)
 
+## 外壳使用了甘草`https://oshwhub.com/jie326513988/tian-qi-mo-shui-ping` 中的一个版本，但是移除了不需要的组件。建议自行二次修改
 
 ## 理论上与用微雪也行，只是大连佳显的便宜一些，且转接板与屏是分开的。
